@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hamidebrkl
-- 👀 I’m interested in AWS DevOps ...
+- 👋 Hi, I’m @hamidebrkl, AWS Cloud & DevOps Engineer.
+- 👀 I’m an AWS Certified Cloud Practitioner and Solutions Architect. 
 - 🌱 I’m currently working at NioyaTech as a DevOps Engineer
-- 💞️ I’m looking forward to collaborate on AWS %DevOps tools.
-- 📫 How to reach me   hamide.borklu@gmail.com
+- 💞️ I’m really interested in AWS and DevOps tools.
+- 📫 How to reach me   hamide.borklu@gmail.com   +1 979 326 08 18 
 
 <!---
 hamidebrkl/hamidebrkl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
